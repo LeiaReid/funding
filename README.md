@@ -8,21 +8,18 @@ Simply put, the Barnett formula is a system of grants that dictates the level of
 
 Education spending, much like most UK departments, is a devolved issue. That means how much funding Wales, Scotland, England and Northern Ireland are allocated, is based on the previous years’ percentage of the change in spending in England, on education.
 
->Extra funding in Scotland, Wales or Northern Ireland
+                                Extra funding in England  X  Population proportion compared to England
 
->=
+                                                          X
 
->Extra funding in England
+                                       The extent to which the relevant English
+                                   departmental programme is comparable with the
+                                 services carried out by the devolved administration
 
->×
+                                  _________________________________________________
+                                 
+                                 Extra funding in Scotland, Wales or Northern Ireland
 
->Population proportion compared to England
-
->×
-
->The extent to which the relevant English
-departmental programme is comparable with the
-services carried out by the devolved administration
  
 Despite its wordiness, the calculation in principle is simple.
 
