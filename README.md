@@ -1,7 +1,10 @@
+## How the Barnett formula affects education and child mobility
+
 The controversial formula has been used to allocate UK funding throughout Northern Ireland, Scotland, England and Wales for 40 years. But what is the Barnett formula, why is it controversial and what does it mean for education spending?
-What is the Barnett formula?
-Simply put, the Barnett formula is a system of grants that dictates the level of public spending in Northern Ireland, Scotland and Wales.
-Under it, extra funding - or cuts - from Westminster are allocated according to the population size of each nation and which powers are devolved to them.
+
+## What is the Barnett formula?
+
+Simply put, the Barnett formula is a system of grants that dictates the level of public spending in Northern Ireland, Scotland and Wales. Under it, extra funding - or cuts - from Westminster are allocated according to the population size of each nation and which powers are devolved to them.
 
 Education spending, much like most UK departments, is a devolved issue. That means how much funding Wales, Scotland, England and Northern Ireland are allocated, is based on the previous years’ percentage of the change in spending in England, on education.
 
@@ -24,11 +27,13 @@ services carried out by the devolved administration
 Despite its wordiness, the calculation in principle is simple.
 
 The formula is named after its creator Joel Barnett, who devised it in 1978 while Chief Secretary to the Treasury, as a short-term solution to minor cabinet disputes in the runup to planned political devolution in 1979. 
-Despite its failure, the formula was retained to aid additional administrative devolution in the Conservative governments of 1979 to 1997 under prime ministers Margaret Thatcher and John Major. It lived on during Labour governments led by Tony Blair and Gordon Brown, and then the coalition government with David Cameron. 
-HM’s Treasury has no plans to scrap the “longstanding” formula, citing the Formula is not used to determine the total budgets of the devolved administrations, and it’s reliable transparency, “in that it uses readily available data to calculate the changes in the devolved administrations
-budgets and this has contributed to its longevity.”
 
-Since the Barnett formula is only a convention, it has "no legal standing or democratic justification" so the Treasury could change it. In recent years, Barnett himself has called it a "terrible mistake".
+Despite its failure, the formula was retained to aid additional administrative devolution in the Conservative governments of 1979 to 1997 under prime ministers Margaret Thatcher and John Major. It lived on during Labour governments led by Tony Blair and Gordon Brown, and then the coalition government with David Cameron. 
+
+HM’s Treasury has no plans to scrap the “longstanding” formula, citing the Formula is not used to determine the total budgets of the devolved administrations, and it’s reliable transparency, “in that it uses readily available data to calculate the changes in the devolved administrations budgets and this has contributed to its longevity.”
+
+Since the Barnett formula is only a convention, it has "no legal standing or democratic justification" so the Treasury could change it. In 2014, shortly before his death in November, Barnett called it a "terrible mistake".
+
 In 2009, the House of Lords Select Committee on the Barnett Formula concluded that "the Barnett Formula should no longer be used to determine annual increases in the block grant for the United Kingdom's devolved administrations... A new system which allocates resources to the devolved administrations based on an explicit assessment of their relative needs should be introduced."
 “It’s actually very straightforward which is part of the reason why it’s lasted for so long. People think of it as oh it’s just something in the treasury they have all of these people working on you know typing complex numbers, no it’s actually very straightforward.” said Dr Ed Poole, expert in territorial policy and lecturer at Cardiff University, “It has come a very long way.”
 
@@ -46,7 +51,7 @@ Recent devolution, and proposed devolution, of tax and spending powers to Scotla
 
 So these additional spending powers will see block grants increase, but additional tax powers will see block grants decrease, because of “The Barnett Squeeze”. The adjustments aim to ensure neither the UK Government or the devolved authorities are made worse off because a power was devolved.
 
-But I thought Wales was underfunded by £300 million?
+**But I thought Wales was underfunded by £300 million?**
 
 So did Jeremy Holtham. Way back in 20010, just before austerity began, he noticed Wales had been underfunded. £300 million underfunded. 
 
@@ -67,10 +72,6 @@ But it was a population problem, said Ed Poole: “He’d written when you measu
 
 Ed Poole said, “It’s designed over time to bring funding in line over time with England, but as a result of that, over time when there’s a decline in funding the opposite happens in the formula, and you get this divergence away.”
 
-
-Source: HM Treasury, 2012.
-Bonus points if you can spot Jeremy Holtham’s 2010 discovery; notably the only year Wales slipped below the floor.
-
 “The Barnett Squeeze is the built-in fail safe,” Said Ed Poole, expert in territorial politics as well as Welsh politics and Scottish devolution, “It wasn’t built to protect Wales, that’s far too far, it was created to equalize funding.”
 
 
@@ -81,7 +82,6 @@ Wales bagged it’s first change - after 40 years - to apportion public spending
 This agreement with the Treasury will charge the The National Assembly with responsibility for stamp duty land tax (the tax on buying property) and landfill tax in 2018, the calculation of Wales’ annual grant from central government will include a “new needs-based factor” to reflect the smaller Welsh tax base. 
 
 In Westminster, Alun Cairns, the Welsh secretary, said the deal was a “significant milestone in the Welsh devolution journey”. 
-
 
 The new deal preserves the Barnett formula  but includes an adjustment for Wales to reflect the differences between the Welsh and English economies. But under EU rules, if any of the UK devolved regions takes on tax powers from central government, their block grant has to be cut to compensate. 
 
@@ -101,6 +101,6 @@ The 2016 agreement also states that from this April, Wales will have the option 
 
 “These savings could be redistributed” Said territorial policy expert at Cardiff university Ed Poole, “but there are so many things the welsh government could allocate this money too. We have an unproportionate population here in Wales, there are more old to young, and we need more money allocated to the health budget, just as much as education.”
 
-https://jsfiddle.net/LeiaR/bnvktL6s/39/ - code in jsfiddle, 
+<script async src="//jsfiddle.net/LeiaR/Lwa9tsmh/embed/result/"></script>
 
 Last year, education spending was allocated as shown in the sankey diagram. England has such a giant proportion, because of their higher population. As such, you can see how much was spent per pupil relative to the devolved nation’s population size. 
