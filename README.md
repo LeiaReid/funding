@@ -91,6 +91,18 @@ Welsh ministers were concerned that taking on responsibility for stamp duty coll
 
 But Mark Drakeford, Welsh cabinet secretary for finance and local government, said the agreement was “fair to Wales and the rest of the UK”, in parliament. He said the reforms would protect Wales from “undue risks that could arise following the devolution of tax powers from 2018” and put funding on a “stable and long-term footing”. 
 
+## Navigation
+
+[Introduction](https://leiareid.github.io/austerity/)
+
+[Teaching](https://leiareid.github.io/teaching/)
+
+[Mental Health and mobility, in education](https://leiareid.github.io/example/)
+
+[Child Mobility Comparison](https://leiareid.github.io/comparison/)
+
+[Sources](https://leiareid.github.io/sources/)
+
 Welsh Shadow Minister for Finance, Nick Ramsay, said: “We should recognise that the Fiscal Framework, which guarantees the ‘Barnett Floor’ and eliminates the ‘Barnett Squeeze,’ goes a long way to providing fairer funding for Wales.
  
 “The Fiscal Framework was jointly negotiated between the UK and Welsh Governments and represents a massive improvement on the old formula that we had before - and which, it’s worth pointing out, had been left untouched by the last Labour Government.” 
