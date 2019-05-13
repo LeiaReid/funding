@@ -20,17 +20,17 @@ Simply put, the Barnett formula is a system of grants that dictates the level of
 
 Education spending, much like most UK departments, is a devolved issue. That means how much funding Wales, Scotland, England and Northern Ireland are allocated, is based on the previous years’ percentage of the change in spending in England, on education.
 
-                                Extra funding in England  X  Population proportion compared to England
+                              Extra funding in England  X  Population proportion compared to England
 
-                                                          X
+                                                        X
 
-                                       The extent to which the relevant English
-                                   departmental programme is comparable with the
-                                 services carried out by the devolved administration
+                                     The extent to which the relevant English
+                                 departmental programme is comparable with the
+                               services carried out by the devolved administration
 
-                                  _________________________________________________
+                                _________________________________________________
                                  
-                                 Extra funding in Scotland, Wales or Northern Ireland
+                               Extra funding in Scotland, Wales or Northern Ireland
 
  
 Despite its wordiness, the calculation in principle is simple.
@@ -110,7 +110,7 @@ The 2016 agreement also states that from this April, Wales will have the option 
 
 “These savings could be redistributed” Said territorial policy expert at Cardiff university Ed Poole, “but there are so many things the welsh government could allocate this money too. We have an unproportionate population here in Wales, there are more old to young, and we need more money allocated to the health budget, just as much as education.”
 
-<script async src="//jsfiddle.net/LeiaR/Lwa9tsmh/embed/js,result/"></script>
+<script async src="//jsfiddle.net/LeiaR/Lwa9tsmh/embed/result,js/"></script>
 
 Last year, education spending was allocated as shown in this sankey diagram. England has such a giant proportion, because of their higher population. As such, you can see how much was spent per pupil relative to the devolved nation’s population size. 
 
