@@ -34,7 +34,7 @@ Since the Barnett formula is only a convention, it has "no legal standing or dem
 In 2009, the House of Lords Select Committee on the Barnett Formula concluded that "the Barnett Formula should no longer be used to determine annual increases in the block grant for the United Kingdom's devolved administrations... A new system which allocates resources to the devolved administrations based on an explicit assessment of their relative needs should be introduced."
 “It’s actually very straightforward which is part of the reason why it’s lasted for so long. People think of it as oh it’s just something in the treasury they have all of these people working on you know typing complex numbers, no it’s actually very straightforward.” said Dr Ed Poole, expert in territorial policy and lecturer at Cardiff University, “It has come a very long way.”
 
-##So why is the Barnett formula controversial?
+## So why is the Barnett formula controversial?
 
 There have been frequent calls for a review of the Barnett formula and the wider funding system for devolved administrations. Critics say it pays no attention to differing need, and pays no attention to unfair relative differences in public spending.
 
