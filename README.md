@@ -37,7 +37,7 @@ Since the Barnett formula is only a convention, it has "no legal standing or dem
 In 2009, the House of Lords Select Committee on the Barnett Formula concluded that "the Barnett Formula should no longer be used to determine annual increases in the block grant for the United Kingdom's devolved administrations... A new system which allocates resources to the devolved administrations based on an explicit assessment of their relative needs should be introduced."
 “It’s actually very straightforward which is part of the reason why it’s lasted for so long. People think of it as oh it’s just something in the treasury they have all of these people working on you know typing complex numbers, no it’s actually very straightforward.” said Dr Ed Poole, expert in territorial policy and lecturer at Cardiff University, “It has come a very long way.”
 
-**So why is the Barnett formula controversial?**
+##So why is the Barnett formula controversial?
 
 There have been frequent calls for a review of the Barnett formula and the wider funding system for devolved administrations. Critics say it pays no attention to differing need, and pays no attention to unfair relative differences in public spending.
 
@@ -53,7 +53,7 @@ So these additional spending powers will see block grants increase, but addition
 
 **But I thought Wales was underfunded by £300 million?**
 
-So did Jeremy Holtham. Way back in 20010, just before austerity began, he noticed Wales had been underfunded. £300 million underfunded. 
+So did Jeremy Holtham. Way back in 2010, just before austerity began, he noticed Wales had been underfunded. £300 million underfunded. 
 
 But it was a population problem, said Ed Poole: “He’d written when you measured Wales’ need; we know Wales is poorer. It’s a sparse population, less health population, less educated population and an older population, all of those things cost money; he estimated a 114-118% in order to be funded equally on a needs based England. 
 
@@ -75,7 +75,7 @@ Ed Poole said, “It’s designed over time to bring funding in line over time w
 “The Barnett Squeeze is the built-in fail safe,” Said Ed Poole, expert in territorial politics as well as Welsh politics and Scottish devolution, “It wasn’t built to protect Wales, that’s far too far, it was created to equalize funding.”
 
 
-**What does it mean for Wales, especially for education?**
+## What does it mean for Wales, especially for education?
 
 Wales bagged it’s first change - after 40 years - to apportion public spending across UK regions as part of a deal on tax devolution announced in 2016. 
 
@@ -101,6 +101,8 @@ The 2016 agreement also states that from this April, Wales will have the option 
 
 “These savings could be redistributed” Said territorial policy expert at Cardiff university Ed Poole, “but there are so many things the welsh government could allocate this money too. We have an unproportionate population here in Wales, there are more old to young, and we need more money allocated to the health budget, just as much as education.”
 
-<script async src="//jsfiddle.net/LeiaR/Lwa9tsmh/embed/result/"></script>
+<script async src="//jsfiddle.net/LeiaR/Lwa9tsmh/embed/js,result/"></script>
 
-Last year, education spending was allocated as shown in the sankey diagram. England has such a giant proportion, because of their higher population. As such, you can see how much was spent per pupil relative to the devolved nation’s population size. 
+Last year, education spending was allocated as shown in this sankey diagram. England has such a giant proportion, because of their higher population. As such, you can see how much was spent per pupil relative to the devolved nation’s population size. 
+
+If you play with the js numbers, using jsfiddle, you can really see how much proportionate devolved funding affects educational spending.  
