@@ -43,12 +43,20 @@ HM’s Treasury has no plans to scrap the “longstanding” formula, citing the
 
 Since the Barnett formula is only a convention, it has "no legal standing or democratic justification" so the Treasury could change it. In 2014, shortly before his death in November, Barnett called it a "terrible mistake".
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Have just located the first-ever reference to the “Barnett formula”, in a 1980 pamphlet by the academic David Heald: “All formulae need a name...” <a href="https://twitter.com/hashtag/barnettformula?src=hash&amp;ref_src=twsrc%5Etfw">#barnettformula</a> <a href="https://twitter.com/hashtag/scottishpoliticalhistory?src=hash&amp;ref_src=twsrc%5Etfw">#scottishpoliticalhistory</a> <a href="https://t.co/X82HqCraVu">pic.twitter.com/X82HqCraVu</a></p>&mdash; David Torrance (@davidtorrance) <a href="https://twitter.com/davidtorrance/status/1090599721545142273?ref_src=twsrc%5Etfw">January 30, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 In 2009, the House of Lords Select Committee on the Barnett Formula concluded that "the Barnett Formula should no longer be used to determine annual increases in the block grant for the United Kingdom's devolved administrations... A new system which allocates resources to the devolved administrations based on an explicit assessment of their relative needs should be introduced."
+
 “It’s actually very straightforward which is part of the reason why it’s lasted for so long. People think of it as oh it’s just something in the treasury they have all of these people working on you know typing complex numbers, no it’s actually very straightforward.” said Dr Ed Poole, expert in territorial policy and lecturer at Cardiff University, “It has come a very long way.”
 
 ## So why is the Barnett formula controversial?
 
 There have been frequent calls for a review of the Barnett formula and the wider funding system for devolved administrations. Critics say it pays no attention to differing need, and pays no attention to unfair relative differences in public spending.
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">How the Barnett formula is &#39;flawed&#39; in favour of Scotland and Northern Ireland. <a href="https://t.co/Cw7z0jhDuM">https://t.co/Cw7z0jhDuM</a> <a href="http://t.co/CIuGQDQmxZ">pic.twitter.com/CIuGQDQmxZ</a></p>&mdash; Full Fact (@FullFact) <a href="https://twitter.com/FullFact/status/532948300132274176?ref_src=twsrc%5Etfw">November 13, 2014</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Ed Poole, emphasised: “There’s no consideration of need at all in the Barnett formula. It’s a kind of historical anomaly. It can only work because England is such a large part of the UK.” stating, “In any normal system, where there's funding distributed around the various territories wether that’s Canada, Australia, Spain, Germany or the US, there’s some sort of consideration of the relative need or the cost of providing public services in different parts of that nation’s state.” 
 
