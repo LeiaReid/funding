@@ -120,6 +120,8 @@ The 2016 agreement also states that from this April, Wales will have the option 
 
 “These savings could be redistributed” Said territorial policy expert at Cardiff university Ed Poole, “but there are so many things the welsh government could allocate this money too. We have an unproportionate population here in Wales, there are more old to young, and we need more money allocated to the health budget, just as much as education.”
 
+**The Barnett Forumla and the education budget**
+
 <script async src="//jsfiddle.net/LeiaR/Lwa9tsmh/embed/result,js/"></script>
 
 Last year, education spending was allocated as shown in this sankey diagram. England has such a giant proportion, because of their higher population. As such, you can see how much was spent per pupil relative to the devolved nation’s population size. 
